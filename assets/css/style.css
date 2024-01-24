@@ -1189,7 +1189,15 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 .form-btn:disabled:hover::before { background: var(--bg-gradient-jet); }
 
+/*-----------------------------------*\
+  #CV
+\*-----------------------------------*/
 
+.frame-pdf {
+  border-radius: 20px;
+  width: 100%;
+  height: 75vh;
+}
 
 
 
